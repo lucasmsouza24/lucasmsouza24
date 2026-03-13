@@ -1,6 +1,6 @@
 # Lucas Mesquita
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/69af6ef447536ddad158840e?variant=dark" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/69af6ef447536ddad158840e?variant=dark&roadmaps=kubernetes%2Clinux%2Cpython%2Ccomputer-science" alt="roadmap.sh"/></a>
 
 <div>
   <a href="https://github.com/lucasmsouza24">
