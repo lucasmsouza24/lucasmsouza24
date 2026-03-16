@@ -1,26 +1,61 @@
 # Lucas Mesquita
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/69af6ef447536ddad158840e?variant=dark&roadmaps=kubernetes%2Clinux%2Cpython%2Ccomputer-science" alt="roadmap.sh"/></a>
+Backend / Cloud Engineer  
+Working with **Python, Kubernetes and Azure environments**
 
-<div>
-  <a href="https://github.com/lucasmsouza24">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmsouza24&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmsouza24&layout=compact&langs_count=16&theme=dark"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Spring Boot" height="28" width="30" src="https://miro.medium.com/max/856/1*O68LbDvD5Dcsnez73M7v4Q.png">
-  <img align="center" alt="React Js" height="28" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
-  <img align="center" alt="PostgreSQL" height="30" width="30" src="https://www.pngrepo.com/png/303301/180/postgresql-logo.png">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-yoda" src="https://media0.giphy.com/media/PiQejEf31116URju4V/200w.gif?cid=82a1493b00fqqk78rdycfg3yfthth449jqpweucwgt0g6dtw&rid=200w.gif">
-</div>
+---
+
+# About Me
+
+I work with **backend and cloud infrastructure**, mainly focused on:
+
+- Kubernetes environments (AKS)
+- Backend APIs
+- Cloud infrastructure
+- CI/CD pipelines
+- Linux environments
+
+Currently working in a **platform support team**, maintaining and evolving Kubernetes workloads and cloud infrastructure.
+
+---
+
+# Tech Stack
+
+### Backend
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Cloud / DevOps
+![Azure](https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+# Currently Learning
+
+- C programming
+- Kubernetes internals
+- Cloud architecture
+
+---
+
+# GitHub Stats
+
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmsouza24&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmsouza24&layout=compact&theme=dark)
+
+---
+
+# Development Roadmap
+
+[![roadmap.sh](https://roadmap.sh/card/tall/69af6ef447536ddad158840e?variant=dark&roadmaps=python%2Cbackend%2Ckubernetes%2Clinux)](https://roadmap.sh)
+
+---
