@@ -1,23 +1,26 @@
 # Lucas Mesquita
 
-Backend / Cloud Engineer  
-Working with **Python, Kubernetes and Azure environments**
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+Backend & Cloud Engineer  
 
-# About Me
+Python • Kubernetes • Azure  
 
-I work with **backend and cloud infrastructure**, mainly focused on:
+Working with backend APIs, cloud infrastructure and Kubernetes environments.
 
-- Kubernetes environments (AKS)
-- Backend APIs
-- Cloud infrastructure
-- CI/CD pipelines
-- Linux environments
+</td>
 
-Currently working in a **platform support team**, maintaining and evolving Kubernetes workloads and cloud infrastructure.
+<td width="50%" valign="top">
 
----
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucasmsouza24&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 # Tech Stack
 
@@ -27,35 +30,27 @@ Currently working in a **platform support team**, maintaining and evolving Kuber
 ### Frontend
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Databases
+### Database
 ![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Cloud / DevOps
+### Cloud & DevOps
 ![Azure](https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Environment
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+</td>
 
-# Currently Learning
-
-- C programming
-- Kubernetes internals
-- Cloud architecture
-
----
-
-# GitHub Stats
-
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmsouza24&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmsouza24&layout=compact&theme=dark)
-
----
+<td width="50%" valign="top">
 
 # Development Roadmap
 
-[![roadmap.sh](https://roadmap.sh/card/tall/69af6ef447536ddad158840e?variant=dark&roadmaps=python%2Cbackend%2Ckubernetes%2Clinux)](https://roadmap.sh)
+<a href="https://roadmap.sh">
+<img src="https://roadmap.sh/card/tall/69af6ef447536ddad158840e?variant=dark&roadmaps=python%2Cbackend%2Ckubernetes%2Clinux" width="320"/>
+</a>
 
----
+</td>
+</tr>
+</table>
